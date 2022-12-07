@@ -7,13 +7,14 @@ navbar:
       href: index.html
     - text: "Division 2"
       href: about.html
-    - text: "Branch Comparation"
+    - text: "Branch Comparison"
       href: Branch.html
-    - text: "Overall Trends"
+    - text: "Company Wide Summary"
       href: Overall.html
 output:
   html_document:
     theme: cerulean
+    highlight: tango
     toc: true
     toc_float: true
     include:
