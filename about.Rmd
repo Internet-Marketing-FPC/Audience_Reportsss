@@ -1,0 +1,201 @@
+---
+title: "Division 2"
+---
+
+<br/>
+<br/>
+
+## Corpus Christi
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/corpus1.png"))
+```
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/corpus2.png"))
+```
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Lubbock
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/lubbock_1.png"))
+```
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/lubbock_2.png"))
+```
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+## McAllen
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/mcallen1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/mcallen2.png"))
+```
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Midland
+
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/midland1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/midland2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## DFW
+
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/hudson_1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/hudson_2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+## Lexington
+
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/lenxintong1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/lenxintong2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Orlando
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/MA_1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/MA_2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Baton Rouge
+
+
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/baton1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/baton2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## Lafayette
+
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/laffayet1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/laffayet2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Bloomintong 
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/bloomintong1png.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/bloomintong2.png"))
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Chicago
+
+<br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/chicago1.png"))
+```
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/chicago2.png"))
+```
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
